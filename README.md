@@ -1,5 +1,7 @@
 # authentication
 
+![Captura de pantalla qr-generator en vue3](https://github.com/NeelBit/Curso-vue3-Ademass_Practica_authentication/blob/master/cap_authentication.jpg)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
